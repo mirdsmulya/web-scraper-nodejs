@@ -1,6 +1,6 @@
-import axios from 'axios';
-import cheerio from 'cheerio';
-import fs from 'fs';
+var axios = require('axios');
+var cheerio = require('cheerio') ;
+var fs = require('fs');
 
 class ScrapeSolution {
     constructor(url) {
