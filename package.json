@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-web-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "solutions.js",
+  "type": "module",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "cheerio": "^1.0.0-rc.3"
+  },
+  "author": "Mirdan Syahid",
+  "license": "ISC"
+}
